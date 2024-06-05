@@ -13,6 +13,10 @@
 ### Documentation languages
 <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/tex.png' height ="50" width="50">  <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/word.png' height ="50" width="50">
 
+## Areas of interest
+- Guidance, Navigation, Dynamics, and Control of aerospace vehicles
+- Modern control theory and its applications
+- Swarm algorithms and cooperative flight
 
 
 
