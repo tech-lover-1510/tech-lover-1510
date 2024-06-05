@@ -9,7 +9,7 @@ Aerospace Engineering Student
 
 ### Designing and simulation softwares
 <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/Autocad.png' height ="50" width="50">  <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/Solidworks.png' height ="50" width="50"> 
-<img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/gazebo.png' height ="50" width="50"> 
+<img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/gazebo.png' height ="50" width="40"> 
 ### Documentation languages
 <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/tex.png' height ="50" width="50">  <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/word.png' height ="50" width="50">
 
