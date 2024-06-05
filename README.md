@@ -8,7 +8,7 @@ Aerospace Engineering Student
 <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/python.png' height ="50" width="50">  <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/matlab.png' height ="50" width="50">
 
 ### Designing softwares
-<img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/Autocad.png' height ="50" width="50">  <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/solidworks.png' height ="50" width="50">
+<img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/Autocad.png' height ="50" width="50">  <img src = 'https://github.com/tech-lover-1510/tech-lover-1510/blob/main/Solidworks.png' height ="50" width="50">
 
 
 
