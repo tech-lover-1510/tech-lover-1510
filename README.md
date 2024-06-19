@@ -21,5 +21,3 @@
 ## Current areas of work
 
 ![work-removebg-preview](https://github.com/tech-lover-1510/tech-lover-1510/assets/136898779/b5b8b21b-500c-4080-8fb4-729c35c9f8eb)
-
-
